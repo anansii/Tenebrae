@@ -1,0 +1,23 @@
+info.tenebrae.console.load.preInit=PreInitialization
+info.tenebrae.console.load.init=Initialization
+info.tenebrae.console.load.postInit=PostInitialization
+
+item.tenebrae.tenebrium.name=Tenebrium
+
+#Tools
+item.tenebrae.tenebriumAxe.name=TenebriumAxe
+item.tenebrae.tenebriumHoe.name=TenebriumHoe
+item.tenebrae.tenebriumPickaxe.name=TenebriumPickaxe
+item.tenebrae.tenebriumShovel.name=TenebriumShovel
+item.tenebrae.tenebriumSword.name=TenebriumSword
+
+#Armor
+
+#Misc Items
+item.tenebrae.blackCoffee.name=Black Coffee
+
+tile.tenebrae.blockTenebrium.name=Tenebrium Block
+tile.tenebrae.oreTenebrium.name=Tenebrium Ore
+
+
+itemGroup.tenebrae.creativeTab=Tenebrae
